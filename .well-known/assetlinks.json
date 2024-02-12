@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.bbev.quill",
+      "sha256_cert_fingerprints": [
+        "A2:17:8C:23:64:0A:0F:87:7A:02:13:E7:CD:DE:14:D5:36:FF:FE:52:B1:0E:0C:0C:63:CE:C0:DB:E3:A9:8E:F3",
+        "3F:AD:5C:AC:EA:93:B3:78:A8:95:4E:F9:B3:B1:E5:76:07:B5:F1:45:3D:A7:6B:95:D5:0F:11:1D:5F:F8:67:F0"
+      ]
+    }
+  }
+]
